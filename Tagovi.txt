@@ -1,0 +1,5 @@
+strong - boldira text (moze da se koristi i <b> tag.)
+sup - koristi se za text iznad texta (X <sup>2</sup> X na kvadrat)
+sub - koristi se za text ispod texta (X <sub>2</sub>  CO2 )
+em - koristi se za zakrivljenje texta (You <em>have</em> to hurry up!)
+& - koristi se kao specijalni karakter (Copyright ©)

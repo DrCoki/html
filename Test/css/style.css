@@ -1,0 +1,23 @@
+div {
+  height: 300px;
+  color: white;
+  border: 2px solid red;
+}
+
+.big-img {
+  background: url(/126-1264652_grb-republike-srbije.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.small-img {
+  background: url(/Images/2.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.folder-img {
+  background: url(/Images/3.avif);
+  background-size: contain;
+  background-repeat: no-repeat;
+}/*# sourceMappingURL=style.css.map */

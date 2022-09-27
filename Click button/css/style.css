@@ -1,0 +1,18 @@
+.button {
+  display: flex;
+  font: 30px Arial;
+  cursor: pointer;
+  background-color: #4299e1;
+  border-radius: 70px;
+  padding: 30px 60px;
+  border-bottom: 5px solid #2b6cb0;
+  font-weight: 700;
+  text-decoration: none;
+  color: white;
+  margin-top: 40%;
+  margin-left: 100px;
+}
+
+.button:hover {
+  background-color: rgba(57, 224, 24, 0.8);
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,42 @@
+*{
+  margin: 10;
+  padding: 20;
+
+}
+
+header{
+  height: 15%;
+  width: 100%;
+  
+}
+.topnav a {
+  margin-left: 15px;
+  float: right;
+  color: #4f1c8a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(168, 11, 11);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+body{
+  height: 70%;
+  width: 100%;
+
+}
+
+footer{
+  height: 15%;
+  height: 100%;
+}
+// .topnav-right {
+//   float: right;
